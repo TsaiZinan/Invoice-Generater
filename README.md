@@ -1,6 +1,8 @@
 # Invoice-Generater
 Invoice generater base on Google Drive.
 
+Code.gs should be attach into data.gsheet by App Script
+
 **file structure**
 ```
 Folder
